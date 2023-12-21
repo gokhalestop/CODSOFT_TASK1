@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(9, 8, 8, 0.958);
+    font-family: 'Poppins', sans-serif;}
+    .case{
+        display: flex;
+        justify-content: center;
+
+    }
+    .main{
+        display:flex;
+        justify-content: center;
+        color: aliceblue;
+        margin-top: 50px;
+    
+    }
+    .content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 61px;
+        flex-direction: column;
+    }
+    .case-img{
+        margin-right: 18px;
+    }
+    .case_content{
+        /* border: solid rgba(9, 8, 8, 0.958); */
+        border: black solid;
+        display: flex;
+        align-items:center;
+        width:125px;
+        padding: 8px;
+        border-radius: 10px;
+        background-color: ;
+    }

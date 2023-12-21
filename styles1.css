@@ -1,0 +1,34 @@
+body {
+    background-color: rgba(9, 8, 8, 0.958);
+    font-family: 'Poppins', sans-serif;
+}
+.specs{
+    display: flex;
+    justify-content: center;
+}
+.specs-img{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: -463px 0px 0px 165px;
+}
+/* .headset{
+    display: flex;
+    align-items: center;
+} */
+.main{
+    margin: 28px 0px 0px 311px;
+    color: aliceblue;
+}
+.blutooth{
+margin-left: 106px;
+}
+.mic{
+margin-left: 106px;
+}
+.battery{
+    padding: 21px;
+}
+.load{
+    padding: 21px;
+}
